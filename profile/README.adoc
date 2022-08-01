@@ -1,3 +1,9 @@
+++++
+<p align="center">
+  <img src="/profile/images/nativejdb.png" alt="NativeJDB">
+</p>
+++++
+
 In here, you can find our https://github.com/nativejdb/nativejdb[main repository] and our https://github.com/nativejdb/nativejdbExamples[examples repository].
 
 If you are looking to get started with NativeJDB check out our https://github.com/nativejdb/nativejdb/blob/main/README.md[documentation].
